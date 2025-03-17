@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb9e6c42-6d8f-410e-b45f-ae1ecc0a6dd7" name="변경" comment="9095_solution">
-      <change afterPath="$PROJECT_DIR$/1620.py" afterDir="false" />
+    <list default="true" id="eb9e6c42-6d8f-410e-b45f-ae1ecc0a6dd7" name="변경" comment="1620_solution">
+      <change afterPath="$PROJECT_DIR$/11659.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/1874.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/2108.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -50,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.11659.executor": "Run",
     "Python.1297.executor": "Run",
     "Python.1620.executor": "Run",
     "Python.1874.executor": "Run",
@@ -61,7 +62,29 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.1620">
+  <component name="RunManager" selected="Python.11659">
+    <configuration name="11659" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Backjoon_solutions" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11659.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1297" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Backjoon_solutions" />
       <option name="ENV_FILES" value="" />
@@ -150,35 +173,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9095" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Backjoon_solutions" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9095.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11659" />
         <item itemvalue="Python.1620" />
         <item itemvalue="Python.1297" />
         <item itemvalue="Python.1874" />
         <item itemvalue="Python.2108" />
-        <item itemvalue="Python.9095" />
       </list>
     </recent_temporary>
   </component>
@@ -214,12 +215,21 @@
       <option name="project" value="LOCAL" />
       <updated>1741999595174</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1620_solution">
+      <option name="closed" value="true" />
+      <created>1742197376866</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742197376866</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1654_solution" />
     <MESSAGE value="9095_solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="9095_solution" />
+    <MESSAGE value="1620_solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="1620_solution" />
   </component>
 </project>
