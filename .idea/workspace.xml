@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb9e6c42-6d8f-410e-b45f-ae1ecc0a6dd7" name="변경" comment="11726_solution">
-      <change afterPath="$PROJECT_DIR$/1012.py" afterDir="false" />
+    <list default="true" id="eb9e6c42-6d8f-410e-b45f-ae1ecc0a6dd7" name="변경" comment="1012_solution">
       <change afterPath="$PROJECT_DIR$/1874.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/2108.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Backjoon_solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Backjoon_solutions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2630.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +34,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/escapingLife/backjoon_solutions.git&quot;,
-    &quot;accountId&quot;: &quot;a05c4376-11ee-43cc-a73d-4a58be1b26d7&quot;
+    &quot;accountId&quot;: &quot;c3747acb-44cc-4a48-a926-c052b07e53c2&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -58,6 +57,7 @@
     &quot;Python.1620.executor&quot;: &quot;Run&quot;,
     &quot;Python.1874.executor&quot;: &quot;Run&quot;,
     &quot;Python.2108.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2630.executor&quot;: &quot;Run&quot;,
     &quot;Python.9095.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -67,7 +67,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.1012">
+  <component name="RunManager" selected="Python.2630">
     <configuration name="1012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Backjoon_solutions" />
       <option name="ENV_FILES" value="" />
@@ -134,28 +134,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1297" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Backjoon_solutions" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1297.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="1620" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Backjoon_solutions" />
       <option name="ENV_FILES" value="" />
@@ -178,13 +156,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2630" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Backjoon_solutions" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2630.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2630" />
         <item itemvalue="Python.1012" />
         <item itemvalue="Python.11726" />
         <item itemvalue="Python.11659" />
         <item itemvalue="Python.1620" />
-        <item itemvalue="Python.1297" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742203274611</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1012_solution">
+      <option name="closed" value="true" />
+      <created>1742880992012</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742880992012</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -253,6 +261,7 @@
     <MESSAGE value="1620_solution" />
     <MESSAGE value="11659_solution" />
     <MESSAGE value="11726_solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="11726_solution" />
+    <MESSAGE value="1012_solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="1012_solution" />
   </component>
 </project>
