@@ -41,5 +41,8 @@ while True:
 
     #전부 출력 했을때 기록한 숫자들을 출력.
     if index > n and len(stack) == 0:
-        print(*print_record, sep="\n")
+        #print(*print_record, sep="\n")
+        #모든 문자열을 \n으로 결합후 출력
+        #시간, 공간 절약
+        print("\n".join(print_record))
         break
