@@ -1,5 +1,4 @@
 import sys
-import decimal
 
 #산술평균
 def avarage():
