@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb9e6c42-6d8f-410e-b45f-ae1ecc0a6dd7" name="변경" comment="2108_solution">
-      <change afterPath="$PROJECT_DIR$/11047.py" afterDir="false" />
+    <list default="true" id="eb9e6c42-6d8f-410e-b45f-ae1ecc0a6dd7" name="변경" comment="11047_solution">
       <change afterPath="$PROJECT_DIR$/11724.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17219.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,29 +47,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11047.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11659.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11724.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11726.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1297.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1620.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1874.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1966.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2108.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2630.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9095.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/82103/Backjoon_solutions&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1012.executor": "Run",
+    "Python.11047.executor": "Run",
+    "Python.11659.executor": "Run",
+    "Python.11724.executor": "Run",
+    "Python.11726.executor": "Run",
+    "Python.1297.executor": "Run",
+    "Python.1620.executor": "Run",
+    "Python.17219.executor": "Run",
+    "Python.1874.executor": "Run",
+    "Python.1966.executor": "Run",
+    "Python.2108.executor": "Run",
+    "Python.2630.executor": "Run",
+    "Python.9095.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/82103/Backjoon_solutions",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Python.11047">
+}]]></component>
+  <component name="RunManager" selected="Python.17219">
     <configuration name="11047" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Backjoon_solutions" />
       <option name="ENV_FILES" value="" />
@@ -92,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11724" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17219" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Backjoon_solutions" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,7 +106,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11724.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17219.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.17219" />
         <item itemvalue="Python.11047" />
         <item itemvalue="Python.2108" />
         <item itemvalue="Python.1874" />
         <item itemvalue="Python.1966" />
-        <item itemvalue="Python.11724" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743737339281</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="11047_solution">
+      <option name="closed" value="true" />
+      <created>1743987974362</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1743987974362</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -316,6 +325,7 @@
     <MESSAGE value="1966_solution" />
     <MESSAGE value="1874_solution" />
     <MESSAGE value="2108_solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="2108_solution" />
+    <MESSAGE value="11047_solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="11047_solution" />
   </component>
 </project>
