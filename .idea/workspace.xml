@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb9e6c42-6d8f-410e-b45f-ae1ecc0a6dd7" name="변경" comment="17219_solution">
-      <change afterPath="$PROJECT_DIR$/2805.py" afterDir="false" />
+    <list default="true" id="eb9e6c42-6d8f-410e-b45f-ae1ecc0a6dd7" name="변경" comment="2805_solution">
+      <change afterPath="$PROJECT_DIR$/1927.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
     "Python.1620.executor": "Run",
     "Python.17219.executor": "Run",
     "Python.1874.executor": "Run",
+    "Python.1927.executor": "Run",
     "Python.1966.executor": "Run",
     "Python.2108.executor": "Run",
     "Python.2630.executor": "Run",
@@ -70,7 +71,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.2805">
+  <component name="RunManager" selected="Python.1927">
     <configuration name="11047" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Backjoon_solutions" />
       <option name="ENV_FILES" value="" />
@@ -115,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1874" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1927" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Backjoon_solutions" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1874.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1927.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1927" />
         <item itemvalue="Python.2805" />
         <item itemvalue="Python.17219" />
         <item itemvalue="Python.11047" />
         <item itemvalue="Python.2108" />
-        <item itemvalue="Python.1874" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +328,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744164744634</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2805_solution">
+      <option name="closed" value="true" />
+      <created>1744173176018</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1744173176018</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -343,6 +352,7 @@
     <MESSAGE value="2108_solution" />
     <MESSAGE value="11047_solution" />
     <MESSAGE value="17219_solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="17219_solution" />
+    <MESSAGE value="2805_solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="2805_solution" />
   </component>
 </project>
