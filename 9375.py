@@ -13,7 +13,6 @@ T = int(input())
 for i in range(T):
     #fashion -> count
     fashionCount = {}
-    fashionVariationCount = 0
 
     n = int(input())
 
@@ -23,7 +22,6 @@ for i in range(T):
         key = userInput[1]
         if not key in fashionCount:
             fashionCount[key] = 1
-            fashionVariationCount += 1
         else:
             fashionCount[key] += 1
 
