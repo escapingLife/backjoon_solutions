@@ -47,17 +47,18 @@ def BFS():
     
     return -1   # 모든 토마토가 익지 않은 경우
 
-user_input = sys.stdin.read().strip().splitlines()
 
-M, N = map(int, user_input[0].split())
+# 첫 줄 정보 읽기
+M, N = map(int, sys.stdin.readline().split())
 
 storage = []    # 창고의 전체 좌표
 tomato_list_initial_ripe = []    # 익은 토마토의 위치
 total_unripe_count = 0   # 익지 않은 토마토의 개수
 
 # 세로줄 마다 반복
-for r_idx, line_str in enumerate(user_input[1:]):
-    current_row = list(map(int, line_str.split()))
+for r_idx in range(N):
+    # 세로 줄 마다 읽기
+    current_row = list(map(int, sys.stdin.readline().split()))
     storage.append(current_row)
 
     # 가로줄 마다 반복
